@@ -42,7 +42,7 @@ executer le fichier bash_init.sh avec linux
 chmod +x install_superset.sh
 ./install_superset.sh
 
+# et powershell_init.ps1 avec powershell windows
 
-et powershell_init.ps1 avec powershell windows
 ```powershell
 .\install_superset.ps1
