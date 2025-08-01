@@ -36,6 +36,13 @@ Ce projet a pour objectif de visualiser les indicateurs clés liés aux activit�
 
 ## Installation
 
-executer les fichiers qui se termine par **_init
-git clone https://github.com/juniorzelefack/superset.git
-cd superset/docker
+executer le fichier bash_init.sh avec linux 
+
+```bash
+chmod +x install_superset.sh
+./install_superset.sh
+
+
+et powershell_init.ps1 avec powershell windows
+```powershell
+.\install_superset.ps1
